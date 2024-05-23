@@ -8,3 +8,4 @@ generative models tutorials
 - tutorials
     - Jakub M. Tomczak
         - [intr DGM](https://github.com/jmtomczak/intro_dgm)
+        - https://jmtomczak.github.io/pdf/JTomczak_2021_03_16.pdf
